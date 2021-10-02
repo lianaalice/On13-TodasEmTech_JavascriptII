@@ -177,7 +177,7 @@ Exemplo:
 #### *JavaScript*
 
 ```js
-const getAge = document.getElementByTagName("text");
+const input = document.getElementByTagName("input");
 ```
 
 ### **querySelector()**
